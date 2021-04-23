@@ -7,10 +7,10 @@
   </div>
 </template>
 <script>
-export default {
-  props: [
-    'numCorrect',
-    'numTotal'
-  ]
-}
+  export default {
+    props: [
+      'numCorrect',
+      'numTotal'
+    ]
+  }
 </script>
